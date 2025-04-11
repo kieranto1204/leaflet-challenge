@@ -8,3 +8,5 @@ For this challenge we were tasked with creating an earthquake visualization:
 - Colored based on the depth of the earthquake (greater depth means darker colors) and the magnitude of the earthquake (higher magnitude means larger circles)
 - We also needed to allow users to click the circles to get other information about the earthquakes.
 - Finally we needed to create a legend that showed what the color of each circle meant (What color meant what depth)
+
+Deployed Link: [https://kieranto1204.github.io/leaflet-challenge/]
